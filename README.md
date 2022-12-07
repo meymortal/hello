@@ -13,4 +13,4 @@ $obj2 = $obj1;
 $obj2->test = 'test';
 echo $obj1->test; //test
 
-echo 'ti lox';
+echo 'ti lox';ыволарыва
